@@ -1,6 +1,6 @@
 # firebase_vuejs_todo
-
-## Project setup
+### 勉強会で作成
+## プロジェクトのセットアップ
 ```
 npm install
 ```
